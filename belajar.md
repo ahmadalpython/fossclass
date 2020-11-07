@@ -17,3 +17,8 @@ git dan github
 
 - bangun pagi
 - sarapan
+
+### List web yang sering saya kunjungi
+
+1. [google](google.com)
+1. [ums](https://ums.ac.id)
