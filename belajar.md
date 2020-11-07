@@ -18,8 +18,6 @@ git dan github
 - bangun pagi
 - sarapan
 
-<<<<<<< HEAD
-
 ### List web yang sering saya kunjungi
 
 1. [google](google.com)
