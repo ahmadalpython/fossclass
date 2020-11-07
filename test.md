@@ -1,1 +1,2 @@
-neneku petarung
+neneku ~~petarung~~ <br>
+bumi itu ~~datar~~ **bulat**
