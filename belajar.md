@@ -4,3 +4,7 @@
 _mabar_ _skuy_
 
 git dan github
+
+|  Nama   | Umur |
+| :-----: | ---: |
+| Bambang |   69 |
